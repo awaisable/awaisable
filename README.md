@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Muhammad Awais  
 
-<!--
-**awaisable/awaisable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 B2B SaaS Program Manager | AI Integration, Agile Delivery, Scrum, and Automation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Focused On  
+Developing expertise in **AI-powered SaaS products**  
+Strengthening **Agile and Product Management** capabilities  
+Exploring **Product Analytics**, **Workflow Automation**, and **Prompt Engineering**  
+
+### 💡 Core Skills & Interests  
+**Product Management:** Strategic Roadmapping, Backlog Prioritization, Sprint Planning  
+**Agile & Scrum:** Iteration Delivery, Stakeholder Management, Continuous Improvement  
+**AI & Automation:** Integrating AI tools into business workflows, enhancing productivity  
+**Leadership & Communication:** Cross-functional Collaboration, Process Optimization, Clear Reporting  
+
+### 💬 Ask Me About  
+Product / Project Management  
+SaaS Business Models  
+Agile Methodologies  
+AI-driven Automation  
+
+### 📫 Let’s Connect  
+📧 [awaisable@gmail.com](mailto:awaisable@gmail.com)  
+💼 [LinkedIn](http://www.linkedin.com/in/awaisable)  
+👨‍💻 [GitHub](https://github.com/awaisable)  
+
+### ⚡ Fun Fact  
+I’m passionate about transforming complex ideas into structured, scalable systems and I enjoy making teamwork feel effortless along the way ☕
