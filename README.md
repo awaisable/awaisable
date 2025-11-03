@@ -4,6 +4,13 @@
 
 ---
 
+### 🌱 Currently Focused On  
+- Developing expertise in **AI-powered SaaS products**  
+- Strengthening **Agile and Product Management** capabilities  
+- Exploring **Product Analytics**, **Workflow Automation**, and **Prompt Engineering**  
+
+---
+
 ### 💡 Core Skills & Interests  
 **Product Management:** Strategic Roadmapping · Backlog Prioritization · Sprint Planning  
 **Agile & Scrum:** Iteration Delivery · Stakeholder Management · Continuous Improvement  
