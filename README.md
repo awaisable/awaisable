@@ -1,74 +1,107 @@
-<h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
-<h3 align="center">Project Management Professional | Agile | Scrum | Planning & Execution</h3>
-
----
-
-## 👨‍💼 About Me
-🎯 Passionate Project Management professional focused on delivering projects on time and within scope.  
-📊 Strong in planning, risk management, stakeholder communication, and team coordination.  
-🚀 Experienced in Agile and Waterfall methodologies.  
-
----
-
-## 🛠️ Skills & Expertise
-
-- 📌 Project Planning & Scheduling  
-- 📌 Risk Management  
-- 📌 Agile & Scrum  
-- 📌 Waterfall Model  
-- 📌 Stakeholder Communication  
-- 📌 Requirement Analysis  
-- 📌 Budget & Resource Management  
-
----
-
-## 📂 Project Management Approach
-
-1️⃣ Initiation  
-2️⃣ Planning  
-3️⃣ Execution  
-4️⃣ Monitoring & Controlling  
-5️⃣ Closing  
-
-Based on global standards from the Project Management Institute (PMI) and PMBOK® Guide.
-
----
-
-## 💻 Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-</p>
-
----
-
-## 📈 Certifications
-
-- 🎓 PMP (Add if applicable)
-- 🎓 CAPM (Add if applicable)
-- 🎓 Agile / Scrum Certification (Add if applicable)
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Muhammad Awais</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <b>Project Management Professional &nbsp;|&nbsp; Agile &nbsp;•&nbsp; Scrum &nbsp;•&nbsp; Waterfall</b>
+</p>
+
+<h3 align="center">
+  <span style="color:#F7B731;">◆ Leading teams, managing chaos, and shipping projects that drive real results.</span>
+</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 📫 Connect With Me
+##  The Work I Do
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
-- 📧 Email: your-email@example.com  
-- 🌍 Location: Your City, Country  
+A Project Management professional experienced in leading software and cross-functional initiatives from concept to successful delivery. My approach combines structured planning, realistic estimation, stakeholder alignment, and strategic execution to ensure projects are delivered with clarity and measurable impact.
 
 ---
 
-⭐️ *"Turning Plans into Successful Projects."*
+##  What I Bring to Projects
+
+**Strategic Planning & Estimation**
+Developing project roadmaps, timelines, and delivery forecasts based on realistic scope and resource capacity.
+
+**Scope & Change Management**
+Defining deliverables, managing Work Breakdown Structures, and controlling change requests effectively.
+
+**Stakeholder Communication**
+Acting as the bridge between clients, leadership, and technical teams ensuring alignment and transparency.
+
+**Business Analysis & Requirements**
+Documenting business needs, drafting BRDs and FRDs, refining user stories, and coordinating UAT.
+
+**Risk, Budget & Performance**
+Identifying risks early, applying mitigation strategies, and maintaining cost and schedule discipline.
+
+**Team Leadership & Collaboration**
+Bringing developers, designers, QA, and stakeholders together around shared accountability and delivery.
+
+---
+
+##  Methodologies & Frameworks
+
+**Agile & Scrum** &nbsp;•&nbsp; **Waterfall** &nbsp;•&nbsp; **Hybrid Models** &nbsp;•&nbsp; **Sprint Planning** &nbsp;•&nbsp; **Backlog Grooming** &nbsp;•&nbsp; **KPI Tracking** &nbsp;•&nbsp; **Change Management**
+
+> Aligned with global best practices from the **Project Management Institute (PMI)** and **PMBOK® Guide**
+
+---
+
+##  Tools & Platforms
+
+**Project & Task Management**
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
+</p>
+
+**Planning & Documentation**
+<p>
+  <img src="https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lucidchart-FF7B00?style=for-the-badge&logo=lucidchart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+**Collaboration & Communication**
+<p>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black"/>
+</p>
+
+---
+
+##  GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+##  Let's Connect
+
+Open to collaborating on high-impact initiatives where strong planning and disciplined execution drive success.
+
+<p>
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Awais-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-your--email%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
