@@ -1,8 +1,7 @@
 <h1 align="center">Muhammad Awais</h1>
 
 <p align="center">
-  <b>Project Management Professional &nbsp;|&nbsp; Agile &nbsp;•&nbsp; Scrum &nbsp;|&nbsp; Waterfall &nbsp;|&nbsp; Hybrid</b>
-</p>
+<b>Project Management Professional | Agile • Scrum • Waterfall • Hybrid | Hands-on BA & QA Expertise</b></p>
 
 <h3 align="center">
   <span style="color:#F7B731;">◆ Leading teams, managing chaos, and shipping projects that drive real results.</span>
@@ -26,26 +25,13 @@ A Project Management professional experienced in leading software and cross-func
 
 ---
 
-##  What I Bring to Projects
+## 🔹 What I Bring to Projects
 
-**Strategic Planning & Estimation**
-Developing project roadmaps, timelines, and delivery forecasts based on realistic scope and resource capacity.
-
-**Scope & Change Management**
-Defining deliverables, managing Work Breakdown Structures, and controlling change requests effectively.
-
-**Stakeholder Communication**
-Acting as the bridge between clients, leadership, and technical teams ensuring alignment and transparency.
-
-**Business Analysis & Requirements**
-Documenting business needs, drafting BRDs and FRDs, refining user stories, and coordinating UAT.
-
-**Risk, Budget & Performance**
-Identifying risks early, applying mitigation strategies, and maintaining cost and schedule discipline.
-
-**Team Leadership & Collaboration**
-Bringing developers, designers, QA, and stakeholders together around shared accountability and delivery.
-
+- **Project Planning & Delivery** – Roadmaps, sprint planning, estimation, and execution control.  
+- **Business Analysis (Hands-on)** – Requirement elicitation, BRD/FRD, user stories, process mapping.  
+- **Quality Assurance (Hands-on)** – Application testing, UAT coordination, defect management, RTM tracking.  
+- **Scope & Risk Management** – Change control, impact analysis, KPI tracking.  
+- **Stakeholder Alignment** – Clear communication between business and technical teams.  
 ---
 
 ##  Methodologies & Frameworks
@@ -56,7 +42,7 @@ Bringing developers, designers, QA, and stakeholders together around shared acco
 
 ---
 
-##  Tools & Platforms
+## 🔹 Tools & Platforms
 
 **Project & Task Management**
 <p>
@@ -66,12 +52,26 @@ Bringing developers, designers, QA, and stakeholders together around shared acco
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
 </p>
 
-**Planning & Documentation**
+**Business Analysis & Documentation**
+<p>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lucidchart-FF7B00?style=for-the-badge&logo=lucidchart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+**Quality Assurance & Testing**
+<p>
+  <img src="https://img.shields.io/badge/Jira_Test_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RTM-Tracking-6A5ACD?style=for-the-badge"/>
+</p>
+
+**Planning & Reporting**
 <p>
   <img src="https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lucidchart-FF7B00?style=for-the-badge&logo=lucidchart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 </p>
 
 **Collaboration & Communication**
