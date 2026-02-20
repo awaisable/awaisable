@@ -28,8 +28,8 @@ A Project Management professional experienced in leading software and cross-func
 ## 🔹 What I Bring to Projects
 
 - **Project Planning & Delivery** – Roadmaps, sprint planning, estimation, and execution control.  
-- **Business Analysis (Hands-on)** – Requirement elicitation, BRD/FRD, user stories, process mapping.  
-- **Quality Assurance (Hands-on)** – Application testing, UAT coordination, defect management, RTM tracking.  
+- **Business Analysis** – Requirement elicitation, BRD/FRD, user stories, process mapping.  
+- **Quality Assurance** – Application testing, UAT coordination, defect management, RTM tracking.  
 - **Scope & Risk Management** – Change control, impact analysis, KPI tracking.  
 - **Stakeholder Alignment** – Clear communication between business and technical teams.  
 ---
