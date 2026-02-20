@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Awais</h1>
 
 <p align="center">
-  <b>Project Management Professional &nbsp;|&nbsp; Agile &nbsp;•&nbsp; Scrum &nbsp;•&nbsp; Waterfall</b>
+  <b>Project Management Professional &nbsp;|&nbsp; Agile &nbsp;•&nbsp; Scrum &nbsp;|&nbsp; Waterfall &nbsp;|&nbsp; Hybrid</b>
 </p>
 
 <h3 align="center">
