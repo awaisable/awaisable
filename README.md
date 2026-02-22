@@ -3,9 +3,9 @@
 <p align="center">
 <b>Project Management Professional | Hands-on BA & QA Expertise</b></p>
 
-<h4 align="center">
+<h3 align="center">
   <span style="color:#F7B731;"> Leading teams, managing chaos, and shipping projects that drive real results.</span>
-</h4>
+</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK">
