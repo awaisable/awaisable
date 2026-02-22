@@ -11,11 +11,11 @@
   </em>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="http://www.linkedin.com/in/awaisable">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:awaisable@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -99,11 +99,11 @@ Project Management professional experienced in delivering software and cross-fun
 Open to collaborating on high-impact initiatives where strong planning and disciplined execution drive success.
 
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="http://www.linkedin.com/in/awaisable">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Awais-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-your--email%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:awaisable@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-awaisable%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
