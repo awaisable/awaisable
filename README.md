@@ -49,42 +49,41 @@ Project Management professional experienced in delivering software and cross-fun
 
 **Project & Task Management**
 <p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white"/>
 </p>
 
 **Business Analysis & Documentation**
 <p>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lucidchart-FF7B00?style=for-the-badge&logo=lucidchart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lucidchart-FF7B00?style=flat-square&logo=lucidchart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=flat-square&logo=microsoft-visio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 **Quality Assurance & Testing**
 <p>
-  <img src="https://img.shields.io/badge/Jira_Test_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RTM-Tracking-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jira_Test_Management-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestRail-65C179?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RTM-Tracking-6A5ACD?style=flat-square"/>
 </p>
 
 **Planning & Reporting**
 <p>
-  <img src="https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS_Project-217346?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white"/>
 </p>
 
 **Collaboration & Communication**
 <p>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black"/>
 </p>
-
 ---
 
 ##  GitHub Insights
