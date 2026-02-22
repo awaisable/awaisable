@@ -21,7 +21,7 @@
 
 ##  The Work I Do
 
-A Project Management professional experienced in leading software and cross-functional initiatives from concept to successful delivery. My approach combines structured planning, realistic estimation, stakeholder alignment, and strategic execution to ensure projects are delivered with clarity and measurable impact.
+Project Management professional experienced in delivering software and cross-functional projects from idea to launch. I combine practical planning and stakeholder coordination with hands-on Business Analysis and Quality Assurance experience to ensure clear requirements, controlled scope, and reliable, high-quality delivery.
 
 ---
 
