@@ -42,7 +42,7 @@ A Project Management professional experienced in leading software and cross-func
 
 ---
 
-## 🔹 Tools & Platforms
+## Tools & Platforms
 
 **Project & Task Management**
 <p>
