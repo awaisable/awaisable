@@ -5,7 +5,7 @@
 
 <h3 align="center">
   <span style="color:#F7B731;"> Leading teams, managing chaos, and shipping projects that drive real results.</span>
-</h3><br>
+</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK">
