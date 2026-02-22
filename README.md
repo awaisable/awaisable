@@ -1,12 +1,15 @@
 <h1 align="center">Muhammad Awais</h1>
 
 <p align="center">
-<b>Project Management Professional | Hands-on BA & QA Expertise</b></p>
+  <strong>Project Management Professional</strong><br/>
+  Hands-on BA & QA Expertise
+</p>
 
-<h3 align="center">
-  <span style="color:#F7B731;"> Leading teams, managing chaos, and shipping projects that drive real results.</span>
-</h3>
-
+<p align="center">
+  <em style="color:#F7B731;">
+    Leading teams, managing chaos, and shipping projects that drive real results.
+  </em>
+</p>
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
