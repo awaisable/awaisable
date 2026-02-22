@@ -25,7 +25,7 @@ A Project Management professional experienced in leading software and cross-func
 
 ---
 
-## 🔹 What I Bring to Projects
+## What I Bring to Projects
 
 - **Project Planning & Delivery** – Roadmaps, sprint planning, estimation, and execution control.  
 - **Business Analysis** – Requirement elicitation, BRD/FRD, user stories, process mapping.  
